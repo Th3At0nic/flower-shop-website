@@ -165,3 +165,28 @@ section {
   border-radius: 8px;
   background: #fff;
 }
+
+/* footer styles */
+footer {
+  background: #111010;
+  text-align: center;
+  margin-top: 140px;
+  padding: 70px 0;
+}
+
+#footer-title {
+  color: #fff;
+  font-size: 35px;
+  font-weight: 800;
+}
+
+#footer-description {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 12px;
+  font-weight: 400;
+}
+#footer-right-reserved {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 10px;
+  font-weight: 400;
+}
