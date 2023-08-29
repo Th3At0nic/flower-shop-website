@@ -1,0 +1,37 @@
+body {
+  font-family: "DynaPuff", cursive;
+  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
+}
+/* common styles */
+.btn-primary {
+  border-radius: 8px;
+  background: #e55473;
+  padding: 15px 25px;
+  color: #fff;
+  font-weight: 700;
+  border: 0;
+}
+
+/* header styles */
+.header {
+  background: rgba(229, 84, 115, 0.1);
+}
+
+.banner-title {
+  font-size: 65px;
+}
+.banner {
+  display: flex;
+  gap: 100px;
+  padding: 50px 270px 0px 270px;
+}
+
+.banner-content {
+  padding-top: 30px;
+  max-width: 50%;
+}
+.banner-img {
+  max-height: 600px;
+  padding-left: 90px;
+}
